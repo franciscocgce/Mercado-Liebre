@@ -400,8 +400,7 @@ body {
     }
     .footer {
         display: flex;
-        font-size: 8px;
-        background-color: white;
+        font-size: 8px
     }
     .footer-titulo {
         font-size: 12px;
